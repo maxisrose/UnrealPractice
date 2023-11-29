@@ -1,0 +1,42 @@
+[
+	{
+		"file": "A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "A:\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "A:\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "A:\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "A:\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\work\\UdemyCourses\\Unreal5\\UnrealPractice\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.1.rsp"
+		],
+		"directory": "A:\\EpicGames\\UE_5.3\\Engine\\Source"
+	}
+]
