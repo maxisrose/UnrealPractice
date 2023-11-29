@@ -14,7 +14,7 @@ void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 
-	vect_x = my_vect.X;
+	my_vect.X = vect_x;
 }
 
 // Called every frame

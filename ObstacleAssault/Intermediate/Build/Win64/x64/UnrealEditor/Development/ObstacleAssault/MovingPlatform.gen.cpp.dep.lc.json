@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\work\\udemycourses\\unreal5\\unrealpractice\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\uht\\movingplatform.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\work\\udemycourses\\unreal5\\unrealpractice\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassaulteditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "a:\\work\\udemycourses\\unreal5\\unrealpractice\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "a:\\work\\udemycourses\\unreal5\\unrealpractice\\obstacleassault\\source\\obstacleassault\\movingplatform.h",
+            "a:\\work\\udemycourses\\unreal5\\unrealpractice\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\uht\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

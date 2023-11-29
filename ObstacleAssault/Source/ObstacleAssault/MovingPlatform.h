@@ -27,5 +27,5 @@ public:
 	FVector my_vect = FVector(1, 2, 3);
 
 	UPROPERTY(EditAnywhere)
-	float vect_x;
+	float vect_x = 0;
 };
