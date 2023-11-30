@@ -13,12 +13,31 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-
-	my_vect.X = vect_x;
+	start_location = GetActorLocation();
 }
 
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
 {
-	Super::Tick(DeltaTime);
+	FVector current_location = GetActorLocation();
+	// traveled_distance >= 1000 ? current_location -= (velocity * DeltaTime) : current_location += (velocity * DeltaTime);
+	// if (abs(traveled_distance) >= 5000)
+	// {
+	// 	current_location -= (velocity * DeltaTime);
+	// }
+	// else
+	// {
+	current_location += (velocity * DeltaTime);
+	// }
+	SetActorLocation(current_location);
+
+	float traveled_distance = FVector::Dist(start_location, current_location);
+
+	if (traveled_distance > move_distance)
+	{
+		FVector move_direction = velocity.GetSafeNormal();
+		velocity = -velocity;
+		start_location = start_location + move_direction * move_distance;
+		SetActorLocation(start_location);
+	}
 }
